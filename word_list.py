@@ -1,0 +1,36 @@
+word_list = ["flat", "cash", "band", "bell", "left", "shelf", "wealth", "grim", "mill", "hint", "plot", "dock", "blot"
+             , "odd", "sum", "plum", "bluff", "crunch", "build ", "gym", "major", "clay", "stray", "today", "bail",
+             "rail", "drain", "faint", "claim", "pale", "face", "graze", "cane", "slate", "ache", "steak", "break",
+             "eight", "they", "obey", "evening", "zebra", "breathe", "league", "squeaky", "healer", "sleek",
+             "indeed", "reef", "deed", "speech", "wheeze", "concrete", "scheme", "belief", "chief", "honey", "donkey",
+             "family", "weary", "climb", "minding", "pies", "die", "height", "sigh", "fright", "slight", "drive", "file"
+             , "kite", "prime", "pride", "slice", "twice", "wipe", "pry", "sly", "shy", "spy", "bolt", "mold", "toll"
+             , "shadow", "flow", "mows", "lower", "blown", "quote", "mole", "stone", "stove", "chose", "sole", "stole",
+             "goal", "groan", "roasting", "load", "woe", "unblock", "unborn", "unchain", "unload", "unlock", "recall",
+             "relearn", "resell", "rewash", "rewind", "imperfect", "indirect", "incorrect", "illegal", "overreact",
+             "overheat", "subway", "premix", "preplan", "supersize", "thirty", "width", "northern", "fifth", "choose",
+             "touch", "chef", "chance", "pitcher", "kitchen", "sketched", "ketchup", "snatch", "stretching", "rush",
+             "whine", "whril", "bring", "graph", "photo", "shred", "shriek", "shrimp", "shrink", "script", "screw",
+             "screech", "straighten", "straps", "strand", "sprout", "sprawl", "sprang", "splashing", "splotch", "thrill",
+             "throb", "throat", "thrift", "through", "dart", "guard", "award", "backyard", "argue", "spark", "target",
+             "smart", "charge", "carpet", "warp", "door", "fort", "morning", "stork", "cord", "worn", "stormy", "core",
+             "bore", "sickly", "hardly", "quickly", "slowly", "carefully", "wonderful", "beautiful", "graceful", "spoonful",
+             "darkness", "shapeless", "ageless", "illness", "goodness", "spotless", "weakness", "darkest", "clearest",
+             "thoughtful", "herb", "person", "sternly", "serpent", "worse", "pearl", "dirty", "birth", "shirt", "twril",
+             "swirl", "purse", "curl", "curve", "curb", "hurl", "turkey", "turnip", "purpose", "blurred", "wrinkle",
+             "wriggle", "wrapper", "wrench", "answer", "knead", "knives", "known", "kneel", "knew", "plumber", "combs",
+             "thumbs", "lambs", "condemn", "resign", "doubtful", "hour", "honest", "honor", "center", "once", "scene",
+             "spice", "circus", "cement", "police", "certain", "ounce", "glance", "germs", "bridge", "badge", "strange",
+             "orange", "ginger", "wedge", "arrange", "sponge", "village", "calms", "mints", "props", "arches", "dresses",
+             "parents", "caves", "glasses", "hobbies", "engines", "couches", "arrows", "enemies", "babies", "ranches",
+             "patches", "mistakes", "supplies", "mosses", "armies", "fishbowl", "lookout", "yardstick", "desktop",
+             "campfire", "overhead", "waterproof", "grandparent", "railroad", "snowstorm", "loudspeaker", "bookcase",
+             "bedroom", "blindfold", "newborn", "bedspread", "yourself", "overdo", "clothesline", "undertake", "tasted",
+             "ripping", "forced", "flipping", "tapped", "flipped", "scared", "flagged", "ripped", "skipped", "tapping",
+             "saved", "skipping", "scaring", "flagging", "discussed", "saving", "tasting", "forcing", "discussing",
+             "funnier", "families", "pennies", "worried", "replied", "varied", "marries", "carries", "easily",
+             "silliest", "jumpier", "emptier", "merrier", "applied", "cozily", "sorriest", "prettily", "lazier",
+             "happiest", "dizziest", "mood", "stoop", "zoom", "crew", "stew", "ruler", "produce", "issue", "tutor",
+             "truth", "bruised", "juicy", "suits", "group", "you'll", "huge", "crook", "wool", "used", "should"
+             ]
+
